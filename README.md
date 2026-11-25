@@ -66,7 +66,7 @@
 
 AdWhispr is an AI‑powered marketing agent that discovers competitors' winning ads, clones them for your brand, and launches campaigns across Meta, TikTok, Google and X. It provides a chat‑driven interface, prompt cookbook, and automation tools for ad research, creative generation, and real‑time campaign management, empowering marketers to accelerate performance and reduce creative costs.
 
-**Areas:** AI · Marketing · Advertising · Automation · AdTech
+**Areas:** Artificial Intelligence · Marketing · Advertising · Automation · AdTech
 
 ## AdWhispr on APIs.io
 
@@ -80,14 +80,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adwhispr Com Authentication](https://apis.io/security/adwhispr-com/adwhispr-com-authentication/)
-- [Adwhispr Com Domain Security](https://apis.io/security/adwhispr-com/adwhispr-com-domain-security/)
+- [AdWhispr Authentication](https://apis.io/security/adwhispr-com/adwhispr-com-authentication/)
+- [AdWhispr Domain Security](https://apis.io/security/adwhispr-com/adwhispr-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adwhispr Com Scopes](https://apis.io/scopes/adwhispr-com/adwhispr-com-scopes/)
+- [AdWhispr Scopes](https://apis.io/scopes/adwhispr-com/adwhispr-com-scopes/)
 
 ## Where to find this API
 
@@ -105,25 +105,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 21.3** — emerging · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 22.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 28.6 |
-| Access clarity | 34.2 |
+| Access clarity | 42.6 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 18.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -142,8 +142,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adwhispr-com/](https://apis.io/providers/adwhispr-com/).
 
